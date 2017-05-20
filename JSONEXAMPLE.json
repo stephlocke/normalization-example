@@ -1,0 +1,49 @@
+[
+    {"customer":{
+        "id": 1,
+        "firstname": "Steph",
+        "surname": "Locke",
+        "profession": "data science",
+        "will hang with": "hipsters",
+        "famous person with name": 0,
+        "address" : {
+            "house number": 13,
+            "country": {
+                "name": "Wales",
+                "population": "Some!"
+            }
+        }
+        },
+        "purchase history": [
+            {
+                "item" : "beer",
+                "quantity" : 2
+            }
+        ]
+        },
+    {"customer":{
+        "id": 2,
+        "firstname": "Denis",
+        "surname": "Reznik",
+        "profession": "data architect",
+        "will hang with": "sql people",
+        "famous person with name": 2,
+        "address" : {
+            "address_housenumber": 616,
+            "country": {
+                "name": "Ukraine",
+                "population":"A different number"
+            }
+        } 
+        },
+        "purchase history": [
+            {
+                "item": "beer",
+                "quantity": 200
+            },{
+                "item": "tshirt",
+                "quantity": 50
+            }
+        ]
+            }
+]
